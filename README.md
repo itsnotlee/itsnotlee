@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![itsnotlee's Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsnotlee&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?itsnotlee=anuraghazra&hide_progress=true)
